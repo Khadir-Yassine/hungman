@@ -17,20 +17,6 @@ The "Hangman" game is a classic where the player must guess a hidden word by sug
 ## Requirements
 - Python 3.x
 
-## Installation
-1. *Clone the repository*:
-   bash
-   git clone https://github.com/YourUsername/hangman-game.git
-   
-2. *Navigate to the project directory*:
-   bash
-   cd hangman-game
-   
-3. *Run the game*:
-   bash
-   python hangman.py
-   
-
 ## Future Improvements
 - *Difficulty levels*: Add options to choose difficulty levels (easy, medium, hard).
 - *Hint system*: Provide hints to help players guess difficult words.
